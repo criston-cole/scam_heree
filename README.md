@@ -97,6 +97,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranay7680/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/pranay7680/Leetcode/tree/main/3110-score-of-a-string/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranay7680/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pranay7680/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,6 +146,7 @@
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0771-jewels-and-stones](https://github.com/pranay7680/Leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/pranay7680/Leetcode/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/pranay7680/Leetcode/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3945-digit-frequency-score](https://github.com/pranay7680/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
