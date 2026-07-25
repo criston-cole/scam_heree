@@ -175,6 +175,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pranay7680/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/pranay7680/Leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pranay7680/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/pranay7680/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranay7680/Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3945-digit-frequency-score](https://github.com/pranay7680/Leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Linked List
