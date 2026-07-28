@@ -5,25 +5,25 @@ class Solution {
         int third_max = Integer.MIN_VALUE;
         int first_min = Integer.MAX_VALUE;
         int second_min = Integer.MAX_VALUE;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]>first_max){
+        for(int n:nums){
+            if(n>first_max){
                 third_max = second_max;
                 second_max = first_max;
-                first_max = nums[i];
+                first_max = n;
             }
-            else if(nums[i]>second_max){
+            else if(n>second_max){
                 third_max = second_max;
-                second_max = nums[i];
+                second_max = n;
             }
-            else if(nums[i]>third_max){
-                third_max = nums[i];
+            else if(n>third_max){
+                third_max = n;
             }
-             if(nums[i]<first_min){
+             if(n<first_min){
                 second_min = first_min;
-                first_min = nums[i];
+                first_min = n;
              }
-             else if(nums[i]<second_min){
-                second_min = nums[i];
+             else if(n<second_min){
+                second_min = n;
              }
         }
         int psts = first_max*second_max*third_max;
