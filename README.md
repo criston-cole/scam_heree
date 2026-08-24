@@ -27,6 +27,7 @@
 | [0485-max-consecutive-ones](https://github.com/pranay7680/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/criston-cole/scam_heree/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/criston-cole/scam_heree/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranay7680/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pranay7680/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -83,6 +84,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranay7680/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranay7680/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/criston-cole/scam_heree/tree/main/0875-koko-eating-bananas/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pranay7680/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
