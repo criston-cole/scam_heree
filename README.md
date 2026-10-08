@@ -76,6 +76,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/pranay7680/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/criston-cole/scam_heree/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/criston-cole/scam_heree/tree/main/0118-pascals-triangle/) | Easy |
@@ -101,6 +102,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranay7680/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/pranay7680/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/pranay7680/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/pranay7680/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/pranay7680/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -275,4 +277,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/criston-cole/scam_heree/tree/main/0455-assign-cookies/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
