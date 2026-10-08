@@ -102,6 +102,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/pranay7680/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/criston-cole/scam_heree/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/pranay7680/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/pranay7680/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -156,6 +157,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/pranay7680/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/criston-cole/scam_heree/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/pranay7680/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/pranay7680/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/pranay7680/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -282,6 +284,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/criston-cole/scam_heree/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/criston-cole/scam_heree/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
