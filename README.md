@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/criston-cole/scam_heree/tree/main/0055-jump-game/) | Medium |
 | [0066-plus-one](https://github.com/criston-cole/scam_heree/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/pranay7680/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/criston-cole/scam_heree/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranay7680/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/criston-cole/scam_heree/tree/main/0118-pascals-triangle/) | Easy |
@@ -173,6 +174,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/criston-cole/scam_heree/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/pranay7680/Leetcode/tree/main/0136-single-number/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -281,6 +283,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/criston-cole/scam_heree/tree/main/0078-subsets/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
