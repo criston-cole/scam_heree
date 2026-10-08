@@ -11,6 +11,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/pranay7680/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0042-trapping-rain-water](https://github.com/criston-cole/scam_heree/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/pranay7680/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/pranay7680/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/criston-cole/scam_heree/tree/main/0055-jump-game/) | Medium |
@@ -55,6 +56,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pranay7680/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/pranay7680/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0042-trapping-rain-water](https://github.com/criston-cole/scam_heree/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/pranay7680/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pranay7680/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/pranay7680/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -78,6 +80,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/criston-cole/scam_heree/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/pranay7680/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/criston-cole/scam_heree/tree/main/0055-jump-game/) | Medium |
 | [0118-pascals-triangle](https://github.com/criston-cole/scam_heree/tree/main/0118-pascals-triangle/) | Easy |
@@ -232,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/pranay7680/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/criston-cole/scam_heree/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/pranay7680/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -291,4 +295,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/criston-cole/scam_heree/tree/main/0022-generate-parentheses/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/criston-cole/scam_heree/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
